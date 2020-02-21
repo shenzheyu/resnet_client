@@ -133,3 +133,6 @@ dmypy.json
 
 # Models
 models/*
+
+# IDE
+.idea/*
