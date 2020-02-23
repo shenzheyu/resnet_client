@@ -1,0 +1,30 @@
+Batch size = 1: (sec per image)
+    mean: 0.011152
+    first variance: 0.023751
+Batch size = 2: (sec per image)
+    mean: 0.007409
+    first variance: -0.001384
+Batch size = 4: (sec per image)
+    mean: 0.005762
+    first variance: 0.004466
+Batch size = 8: (sec per image)
+    mean: 0.004760
+    first variance: 0.000500
+Batch size = 16: (sec per image)
+    mean: 0.003972
+    first variance: 0.014635
+Batch size = 32: (sec per image)
+    mean: 0.004956
+    first variance: 0.032083
+Batch size = 64: (sec per image)
+    mean: 0.005091
+    first variance: 0.004975
+Batch size = 128: (sec per image)
+    mean: 0.005142
+    first variance: 0.034053
+Batch size = 256: (sec per image)
+    mean: 0.005162
+    first variance: -0.113312
+Batch size = 512: (sec per image)
+    mean: 0.005064
+    first variance: 0.019670
